@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Event Finder</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoicGhpbGlwamFuIiwiYSI6ImNrbmhsaXVzaTAxM2gyeHA4ZGgxajZwdzgifQ.06SmKH6iELxcUI-vDW8L2w</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_denied_warning">App will not function properly. You can change permission inside the device application settings.</string>
+    <string name="settings">Settings</string>
 </resources>
